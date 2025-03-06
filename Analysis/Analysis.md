@@ -1,4 +1,4 @@
-# deep-learning-challenge
+# Alphabet Soup Neural Network Analysis
 
 ## Overview of the Analysis
 The purpose of this analysis is to build a binary classification model using deep learning to predict whether an applicant would be successful in securing funding from Alphabet Soup. The dataset contains information on over 34,000 organizations, with features describing application types, affiliations, classifications and financial details. 
